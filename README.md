@@ -1,7 +1,7 @@
 # PCA-Matrix-summation-with-a-2D-grid-and-2D-blocks.-Adapt-it-to-integer-matrix-addition.-
 
 ## Aim: 
-To perform integer matrix addition using 2D grid and 2D blocks by adapting PCA matrix summation.
+To perform PCA matrix summation with a 2D grid and 2D blocks and adapting it to integer matrix addition.
 
 ## Procedure:
 # STEP 1:
@@ -197,4 +197,4 @@ int main(int argc, char **argv)
 
 
 ## Result:
-Thus the program to perform integer matrix addition using 2D grid and 2D blocks by adapting PCA matrix summation has been successfully executed.
+Thus the program to perform PCA matrix summation with a 2D grid and 2D blocks and adapting it to integer matrix addition has been successfully executed.
