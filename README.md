@@ -6,19 +6,14 @@ To perform integer matrix addition using 2D grid and 2D blocks by adapting PCA m
 ## Procedure:
 # STEP 1:
 Allocate memory on the device for the input and output arrays.
-
 # STEP 2:
 Copy the input array from the host to the device.
-
 # STEP 3:
 Set the grid and block dimensions for the kernel.
-
 # STEP 4:
 Launch the kernel with the grid and block dimensions and the input and output arrays.
-
 # STEP 5:
 Copy the output array from the device to the host.
-
 # STEP 6:
 Free the memory on the device.
 
