@@ -204,7 +204,9 @@ sumMatrixOnHost elapsed 0.880898 sec
 sumMatrixOnGPU2D <<<(512,512), (32,32)>>> elapsed 0.012740 sec
 Arrays match.
 ```
-![2](https://github.com/MIRUDHULA-DHANARAJ/PCA-Matrix-summation-with-a-2D-grid-and-2D-blocks.-Adapt-it-to-integer-matrix-addition.-/assets/94828147/736658c1-9fda-4675-80fc-4d03394e2999)
+
+![2N](https://github.com/MIRUDHULA-DHANARAJ/PCA-Matrix-summation-with-a-2D-grid-and-2D-blocks.-Adapt-it-to-integer-matrix-addition.-/assets/94828147/35863d4c-67f2-4f1a-8531-114250ac0c64)
+
 
 
 
