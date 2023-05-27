@@ -193,7 +193,19 @@ int main(int argc, char **argv)
 
 ## Output:
 
-![253](https://user-images.githubusercontent.com/94828147/234770832-e56db24f-a932-4d58-9ff1-620b70ee962a.png)
+```
+root@MidPC:/home/student/Desktop# nvcc first.cu
+root@MidPC:/home/student/Desktop# ./a.out
+./a.out Starting...
+Using Device 0: NVIDIA GeForce GTX 1660 SUPER
+Matrix size: nx 16384 ny 16384
+Matrix initialization elapsed 6.199756 sec
+sumMatrixOnHost elapsed 0.880898 sec
+sumMatrixOnGPU2D <<<(512,512), (32,32)>>> elapsed 0.012740 sec
+Arrays match.
+```
+![2](https://github.com/MIRUDHULA-DHANARAJ/PCA-Matrix-summation-with-a-2D-grid-and-2D-blocks.-Adapt-it-to-integer-matrix-addition.-/assets/94828147/736658c1-9fda-4675-80fc-4d03394e2999)
+
 
 
 ## Result:
